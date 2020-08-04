@@ -1,0 +1,9 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "for test",
+  "main": "index.js",
+  "repository": "https://github.com/dlog6649/git-test.git",
+  "author": "hbim <hbim@si-analytics.ai>",
+  "license": "MIT"
+}
